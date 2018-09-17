@@ -1,5 +1,5 @@
 # logo
-A test for the ILA logo
+A test for the ILA logo (click to see the image)
 
 Transparent background:
 
